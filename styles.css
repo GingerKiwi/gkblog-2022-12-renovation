@@ -329,3 +329,8 @@ nav a:focus {
     margin-bottom: 1em;
     padding-top: 1em;
 }
+
+.widget-icon {
+    max-width: 70px;
+    align-self: center;
+}
